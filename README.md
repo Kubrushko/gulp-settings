@@ -1,3 +1,3 @@
 # gulp-settings
 
-Sass, sourcemaps, autoreload
+Sass, sourcemaps, auto-reload
