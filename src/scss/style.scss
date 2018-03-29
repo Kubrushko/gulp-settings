@@ -1,0 +1,11 @@
+@import 'base/variables';
+
+body {
+	font-family: sans-serif;
+	background: $bg;
+	color: $white;
+}
+
+a {
+	transition: all 320ms ease;
+}
